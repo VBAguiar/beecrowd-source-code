@@ -1,2 +1,2 @@
 # beecrowd-source-code
-source code
+Source Code
